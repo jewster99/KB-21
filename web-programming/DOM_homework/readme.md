@@ -9,4 +9,7 @@ Requirements:
 -	The folder / file is clickable outside the title. (It means you can open folder by clicking on row instead title directly)
 
 Icons, to the left of file/folder names can be found at the link - https://material.io/icons/ (they are already included). Use icons like this 
-<i class="material-icons">done</i> will display icon ->  
+```html
+<code><i class="material-icons">done</i></code>
+```
+will display icon ->  
